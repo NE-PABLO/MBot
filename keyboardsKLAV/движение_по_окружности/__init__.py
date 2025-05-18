@@ -1,0 +1,1 @@
+from .keyboard import get_ravnomernoe_dvizhenie_po_okruzhnosti_keyboard

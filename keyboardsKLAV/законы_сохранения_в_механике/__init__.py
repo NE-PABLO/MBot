@@ -1,0 +1,1 @@
+from .keyboard import get_zakony_sohraneniya_keyboard

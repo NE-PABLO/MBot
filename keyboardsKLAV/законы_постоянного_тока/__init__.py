@@ -1,0 +1,1 @@
+from .keyboard import get_zakon_postoinogo_toka_keyboard
